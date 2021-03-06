@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es Elihan
 #### Estudiante de Ing. Software
 
-Habilidades: Java, SQL,C#,HTML, CSS
+Habilidades: Java, SQL, C#, HTML, CSS
 
 - 🌱 Estoy aprendiendo JAVASCRIPT 
 - 🤔 Necesito ayuda con CSS 
