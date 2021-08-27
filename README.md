@@ -1,10 +1,11 @@
 ### Hola 👋, Mi nombre es Elihan
 #### Estudiante de Ing. Software
 
-Habilidades: Java, SQL, C#,Python,HTML
+Habilidades: Java, SQL, C#,Python,HTML,
+Herramientas: Visual Studio, VS Code, SQL Server,Orange, Tableu, Pentaho
 
 - 🌱 Estoy aprendiendo JAVASCRIPT 
-- 🤔 Necesito ayuda con CSS 
+- 🤔 Necesito ayuda con Vue 
 - 📫 Cómo contactarme: elihantejada@gmail.com 
 
 
