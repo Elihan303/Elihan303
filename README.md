@@ -2,6 +2,7 @@
 #### Estudiante de Ing. Software
 
 Habilidades: Java, SQL, C#, Python, HTML
+
 Herramientas: Visual Studio, VS Code, SQL Server,Orange, Tableu, Pentaho
 
 - 🌱 Estoy aprendiendo JAVASCRIPT 
