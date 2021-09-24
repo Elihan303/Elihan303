@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es Elihan
 #### Estudiante de Ing. Software
 
-Habilidades: Java, SQL, C#, Python, HTML
+Habilidades: Java, SQL, C#, Python, HTML, Vue, Node Expresss
 
 Herramientas: Visual Studio, VS Code, SQL Server,Orange, Tableu, Pentaho
 
