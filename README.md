@@ -5,8 +5,8 @@ Habilidades: Java, SQL, C#, Python, HTML, Vue, React, Node Express
 
 Herramientas: Visual Studio, VS Code, SQL Server, Postman
 
-- 🌱 Estoy aprendiendo Desarrollo Backend
-- 🤔 Necesito ayuda con Node Express
+- 🌱 Estoy aprendiendo Javascript y estructura de datos
+- 🤔 Necesito ayuda con el backend
 - 📫 Cómo contactarme: elihantejada@gmail.com 
 
 
