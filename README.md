@@ -1,11 +1,11 @@
 ### Hola 👋, Mi nombre es Elihan
-#### Estudiante de Ing. Software
+#### Ing. Software
 
-Habilidades: Java, SQL, C#, Python, HTML, Vue, React, Node Express
+Habilidades: Java, SQL, C#, Python, HTML, React, React Native, Node Express
 
 Herramientas: Visual Studio, VS Code, SQL Server, Postman
 
-- 🌱 Estoy aprendiendo Javascript y estructura de datos
+- 🌱 Estoy aprendiendo desarrollo movil
 - 🤔 Necesito ayuda con el backend
 - 📫 Cómo contactarme: elihantejada@gmail.com 
 
